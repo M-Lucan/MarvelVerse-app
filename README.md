@@ -1,3 +1,8 @@
+*README*
+![MarvelVerse app preview](./Preview.png)
+
+Users can browse through a diverse selection of Marvel movies, curated from various genres and time periods. The intuitive interface facilitates easy navigation and exploration.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
