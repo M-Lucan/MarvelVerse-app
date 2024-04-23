@@ -3,6 +3,13 @@
 
 Users can browse through a diverse selection of Marvel movies, curated from various genres and time periods. The intuitive interface facilitates easy navigation and exploration.
 
+Technologies Used:
+
+React.js: The core framework for building user interfaces, providing a component-based architecture for efficient development and maintenance.
+React Router: A powerful routing library for React applications, enabling declarative routing and navigation between different sections of the application.
+Styled Components: CSS-in-JS solution for styling React components, allowing for modular, maintainable, and customizable styles.
+Fetch API: Utilized for making asynchronous HTTP requests to external APIs, enabling seamless integration of movie data into the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
